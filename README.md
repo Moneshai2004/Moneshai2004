@@ -1,6 +1,5 @@
-<img src ="https://github.com/Moneshai![github-header-image](https://github.com/user-attachments/assets/e4d0c45c-01a2-4ee1-998a-f7715b23e469)
-2004/Moneshai2004/ass![github-header-image](https://github.com/user-attachments/assets/4e84bae7-e16a-40dd-9353-50ba1763f51b)
-ets/140153126/bc9902a6-af19-4cea-9e00-f21f947828ae">
+<img src ="![github-header-image](https://github.com/user-attachments/assets/c54bb7f4-529e-4b7c-b3f1-3ea151f5b634)
+">
 
 
 <h1>Hi 👋, I'm Monesh.S</h1>
