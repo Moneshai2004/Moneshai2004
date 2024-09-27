@@ -1,5 +1,4 @@
-<img src ="github-header-image (1).png
-">
+<img src ="github-header-image (1).png">
 
 
 <h1>Hi 👋, I'm Monesh.S</h1>
